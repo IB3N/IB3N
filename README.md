@@ -1,5 +1,6 @@
-
 ### Hi there 👋, I'm Ben
+
+![BenPearce](/BenPearce.gif)
 
 I am a full stack developer who gets a kick out of writing clean, readable code that has a purpose. Recently I have been working on projects involving React, Redux, TypeScript, Express, Sequelize and Docker.
 
@@ -10,8 +11,6 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 - ⏱ Free time? I love scuba and free diving, cycling, rock climbing and anything that will get me outdoors
 - 🤿 🚴 🧗 ⛰
 
-### My tools and technologies
-
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -21,7 +20,6 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 <code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-![BenPearce](/BenPearce.gif)
 
 <!--
 **IB3N/IB3N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
