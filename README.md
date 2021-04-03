@@ -1,4 +1,4 @@
-## Hi there 👋, I'm
+## Hi there 👋
 
 ![BenPearce](/BenPearce.gif)
 
