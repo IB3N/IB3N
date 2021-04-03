@@ -1,8 +1,8 @@
+![BenPearce](/BenPearce.gif)
+
 ### Hi there 👋, I'm Ben
 
 I am a full stack developer who gets a kick out of writing clean, readable code that has a purpose. Recently I have been working on projects involving React, Redux, TypeScript, Express, Sequelize and Docker.
-
-![BenPearce](/BenPearce.gif)
 
 ### What am I up to?
 
@@ -11,7 +11,6 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 - ⏱ Free time? I love scuba and free diving, cycling, rock climbing and anything that will get me outdoors
 - 🤿 🚴 🧗 ⛰
 
-<br/>
 <br/>
 
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
