@@ -11,6 +11,9 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 - ⏱ Free time? I love scuba and free diving, cycling, rock climbing and anything that will get me outdoors
 - 🤿 🚴 🧗 ⛰
 
+<br/>
+<br/>
+
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
