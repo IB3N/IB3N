@@ -10,9 +10,9 @@ I like to work in environments that prioritise respect, integrity and having a g
     - refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency
     - use Redux
 - 🌱 &nbsp; I’m excited to learn more about:
-    - ☝️ &nbsp; **Typescript**
-    - ✌️ &nbsp; **Nest.JS**
-    -  🤟 &nbsp; **Animations**
+    - ☝️ &nbsp; Typescript
+    - ✌️ &nbsp; Nest.JS
+    -  🤟 &nbsp; Animations
 - ⏱ &nbsp; Free time? I love:
     - scuba and free diving &nbsp; 🤿
     - cycling &nbsp; 🚴
