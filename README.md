@@ -4,9 +4,18 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 
 ### What am I up to?
 
-- 🔭 &nbsp;&nbsp; I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency and to use Redux
-- 🌱 &nbsp;&nbsp; I’m excited to learn ☝️ more about **Typescript**, ✌️ **Nest.JS** and 🤟 **animations**
-- ⏱ &nbsp;&nbsp; Free time? I love scuba and free diving, cycling, rock climbing and anything that will get me outdoors &nbsp;&nbsp; 🤿 🚴 🧗 ⛰
+- 🔭 &nbsp; I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to:
+    - refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency
+    - use Redux
+- 🌱 &nbsp; I’m excited to learn more about:
+    - ☝️ **Typescript**
+    - ✌️ **Nest.JS**
+    -  🤟 **animations**
+- ⏱ &nbsp; Free time? I love:
+    - scuba and free diving &nbsp; 🤿
+    - cycling &nbsp; 🚴
+    - rock climbing &nbsp; 🧗
+    - anything that will get me outdoors &nbsp; ⛰
 
 <br/>
 
