@@ -2,7 +2,7 @@
 
 I am a full stack developer who gets a kick out of writing clean, readable code that has a purpose. Recently I have been working on projects involving React, Redux, TypeScript, Express, Sequelize and Docker.
 
-I like to work in environments that prioritise respect, integrity and above all laughter.
+I like to work in environments that prioritise respect, integrity and having a good laugh.
 
 ## What am I up to?
 
