@@ -2,9 +2,6 @@
 
 I am a full stack developer who gets a kick out of writing clean, readable code that has a purpose. Recently I have been working on projects involving React, Redux, TypeScript, Express, Sequelize and Docker.
 
-<br/>
-
-
 ### What am I up to?
 
 - 🔭 I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency and to use Redux
@@ -22,6 +19,7 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 <code><img height="40" align="center" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 </code>
 
+<br/>
 <br/>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IB3N&count_private=true&theme=tokyonight&showicons=true)]()
