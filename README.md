@@ -3,7 +3,7 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 
 ### What am I up to?
 
-<img src="./BenPearce.png" alt="logo" style="height: 300px; width: 525px;" align="right" />
+<img src="./BenPearce.png" alt="logo" style="height: 240; width: 420;" align="right" />
 
 - 🔭 I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency and to use Redux
 - 🌱 I’m excited to learn ☝️ more about **Typescript**, ✌️ **Nest.JS** and 🤟 **animations**
