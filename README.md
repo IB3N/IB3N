@@ -17,8 +17,6 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 
 <img src="./BenPearce.png" alt="logo" />
 
-<br/>
-
 ### What am I up to?
 
 - 🔭 I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency and to use Redux
