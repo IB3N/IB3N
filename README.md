@@ -3,7 +3,7 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 
 ### What am I up to?
 
-<img src="./BenPearce.png" alt="logo" align="right" height="240" width="420" />
+<img src="./BenPearce.png" alt="logo" align="right" height="229" width="400" />
 
 - 🔭 I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency and to use Redux
 - 🌱 I’m excited to learn ☝️ more about **Typescript**, ✌️ **Nest.JS** and 🤟 **animations**
@@ -20,6 +20,8 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
 <code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IB3N&count_private=true&theme=tokyonight&showicons=true)]()
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IB3N)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **IB3N/IB3N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
