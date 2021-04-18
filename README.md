@@ -8,9 +8,9 @@ I am a full stack developer who gets a kick out of writing clean, readable code 
     - refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency
     - use Redux
 - 🌱 &nbsp; I’m excited to learn more about:
-    - ☝️ **Typescript**
-    - ✌️ **Nest.JS**
-    -  🤟 **animations**
+    - ☝️ &nbsp; **Typescript**
+    - ✌️ &nbsp; **Nest.JS**
+    -  🤟 &nbsp; **Animations**
 - ⏱ &nbsp; Free time? I love:
     - scuba and free diving &nbsp; 🤿
     - cycling &nbsp; 🚴
