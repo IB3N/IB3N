@@ -2,18 +2,20 @@
 
 I am a full stack developer who gets a kick out of writing clean, readable code that makes an impact. Recently I have been working on projects involving React, Redux, TypeScript, Express, Sequelize and Docker.
 
+I am a big lover of anything science, conservation or sustainability related. I believe that science and learning are the key to progress. I try to bring these to advance my own technical path.
+
 I like to work in environments that prioritise respect, integrity and having a good laugh.
 
 ## What am I up to?
 
-- 🔭 &nbsp; I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to:
+- 🔭 &nbsp; *I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to:*
     - refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency
     - use Redux
-- 🌱 &nbsp; I’m excited to learn more about:
+- 🌱 &nbsp; *I’m excited to learn more about:*
     - ☝️ &nbsp; Typescript
     - ✌️ &nbsp; Nest.JS
     -  🤟 &nbsp; Animations
-- ⏱ &nbsp; Free time? I love:
+- ⏱ &nbsp; *Free time? I love:*
     - scuba and free diving &nbsp; 🤿
     - cycling &nbsp; 🚴
     - rock climbing &nbsp; 🧗
