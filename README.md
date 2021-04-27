@@ -8,14 +8,14 @@ I like to work in environments that prioritise respect, integrity and having a g
 
 ## What am I up to?
 
-- 🔭 &nbsp; *I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to:*
+- 🔭 &nbsp; **I'm currently using what I learnt developing [Librai](https://github.com/geroalexander/librai) to:**
     - refactor [BarTinder](https://github.com/IB3N/BarTinder) for efficiency
     - use Redux
-- 🌱 &nbsp; *I’m excited to learn more about:*
+- 🌱 &nbsp; **I’m excited to learn more about:**
     - ☝️ &nbsp; Typescript
     - ✌️ &nbsp; Nest.JS
     -  🤟 &nbsp; Animations
-- ⏱ &nbsp; *Free time? I love:*
+- ⏱ &nbsp; **Free time? I love:**
     - scuba and free diving &nbsp; 🤿
     - cycling &nbsp; 🚴
     - rock climbing &nbsp; 🧗
