@@ -14,7 +14,7 @@ I like to work in environments that prioritise respect, integrity and having a l
   - TypeScript
   - NestJS
 - 🌱 &nbsp; **I’m excited to learn more about:**
-  - ☝️ &nbsp; Next.JS
+  - ☝️ &nbsp; Serverless tech
   - ✌️ &nbsp; Animations
 - ⏱ &nbsp; **Free time? I love:**
   - Scuba and free diving &nbsp; 🤿
