@@ -9,6 +9,7 @@ I like to work in environments that prioritise respect, integrity and having a l
 ## What am I up to?
 
 - 🔭 &nbsp; **I'm currently getting heavily stuck into:**
+  - Next.js
   - React Native
   - TypeScript
   - NestJS
