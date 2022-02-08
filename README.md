@@ -36,8 +36,7 @@ I like to work in environments that prioritise respect, integrity and having a l
 <code><img height="40" align="center" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" align="center" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" align="center" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" align="center" alt="NestJS" src="https://raw.githubusercontent.com/nimasfl/nestjs-
-icons/master/nest-.svg"></code>
+<code><img height="40" align="center" alt="NestJS" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
 <code><img height="40" align="center" alt="NextJS" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 
 <br/>
